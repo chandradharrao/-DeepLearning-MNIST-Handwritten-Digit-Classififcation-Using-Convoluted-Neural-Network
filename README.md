@@ -1,4 +1,4 @@
-# -DeepLearning-MNIST-Handwritten-Digit-Classififcation-Using-Convoluted-Neural-Network
+# Handwritten-Digit-Classification-using-CNN
 MNIST Handwritten Digit Classififcation Using Convoluted Neural Network
 This is a DeepLearnng Mini Project I did after learning Convoluted Neural Network by myself as a Quarentine Goal.
 
